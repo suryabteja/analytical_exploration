@@ -1,2 +1,2 @@
-# analytical_exploration
+# Analytical_exploration
 Exploration of RMPEAs property space using analytical methods
